@@ -1,5 +1,5 @@
 ---
-title: Document Center
+title: Un pas, deux côtés
 ---
 
 +++ Hello world!
