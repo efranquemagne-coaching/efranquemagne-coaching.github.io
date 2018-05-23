@@ -2,6 +2,6 @@
 title: Document Center
 ---
 
-=== Hello world!
+--- Hello world!
 
 How are you world?
