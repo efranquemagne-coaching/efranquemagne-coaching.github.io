@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: Sylhare/Type-on-Strap
 markdown: kramdown
 github: [metadata]
 encoding: UTF-8
